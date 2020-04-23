@@ -17,3 +17,4 @@ Use the package manager [pip](https://pip.pypa.io/en/stable/).
 pip install BeautifulSoup4
 pip install lxml
 ```
+Trash
